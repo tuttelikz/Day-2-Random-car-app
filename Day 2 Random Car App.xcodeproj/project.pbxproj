@@ -14,6 +14,16 @@
 		51B15A891B27F678003CD121 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 51B15A881B27F678003CD121 /* Images.xcassets */; };
 		51B15A8C1B27F678003CD121 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 51B15A8A1B27F678003CD121 /* LaunchScreen.xib */; };
 		51B15A981B27F678003CD121 /* Day_2_Random_Car_AppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 51B15A971B27F678003CD121 /* Day_2_Random_Car_AppTests.m */; };
+		51B15AA71B27FB5A003CD121 /* audi.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 51B15AA11B27FB5A003CD121 /* audi.jpg */; };
+		51B15AA81B27FB5A003CD121 /* bmw.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 51B15AA21B27FB5A003CD121 /* bmw.jpg */; };
+		51B15AA91B27FB5A003CD121 /* lexus.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 51B15AA31B27FB5A003CD121 /* lexus.jpg */; };
+		51B15AAA1B27FB5A003CD121 /* mercedes.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 51B15AA41B27FB5A003CD121 /* mercedes.jpg */; };
+		51B15AAB1B27FB5A003CD121 /* no_photo_car.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 51B15AA51B27FB5A003CD121 /* no_photo_car.jpeg */; };
+		51B15AAC1B27FB5A003CD121 /* toyota.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 51B15AA61B27FB5A003CD121 /* toyota.jpg */; };
+		51B15AAF1B27FF32003CD121 /* AddNewCarViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 51B15AAE1B27FF32003CD121 /* AddNewCarViewController.m */; };
+		51B15AB21B280173003CD121 /* DisplayCarViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 51B15AB11B280173003CD121 /* DisplayCarViewController.m */; };
+		51B15AB51B280257003CD121 /* Car.m in Sources */ = {isa = PBXBuildFile; fileRef = 51B15AB41B280257003CD121 /* Car.m */; };
+		51B15AB81B283C2E003CD121 /* EditViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 51B15AB71B283C2E003CD121 /* EditViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +50,20 @@
 		51B15A911B27F678003CD121 /* Day 2 Random Car AppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Day 2 Random Car AppTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		51B15A961B27F678003CD121 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		51B15A971B27F678003CD121 /* Day_2_Random_Car_AppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Day_2_Random_Car_AppTests.m; sourceTree = "<group>"; };
+		51B15AA11B27FB5A003CD121 /* audi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = audi.jpg; path = "../../../../../Dropbox/TheSummerStartupSchool.com - 2015/iOS Course/Day 2/files/audi.jpg"; sourceTree = "<group>"; };
+		51B15AA21B27FB5A003CD121 /* bmw.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = bmw.jpg; path = "../../../../../Dropbox/TheSummerStartupSchool.com - 2015/iOS Course/Day 2/files/bmw.jpg"; sourceTree = "<group>"; };
+		51B15AA31B27FB5A003CD121 /* lexus.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = lexus.jpg; path = "../../../../../Dropbox/TheSummerStartupSchool.com - 2015/iOS Course/Day 2/files/lexus.jpg"; sourceTree = "<group>"; };
+		51B15AA41B27FB5A003CD121 /* mercedes.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = mercedes.jpg; path = "../../../../../Dropbox/TheSummerStartupSchool.com - 2015/iOS Course/Day 2/files/mercedes.jpg"; sourceTree = "<group>"; };
+		51B15AA51B27FB5A003CD121 /* no_photo_car.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = no_photo_car.jpeg; path = "../../../../../Dropbox/TheSummerStartupSchool.com - 2015/iOS Course/Day 2/files/no_photo_car.jpeg"; sourceTree = "<group>"; };
+		51B15AA61B27FB5A003CD121 /* toyota.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = toyota.jpg; path = "../../../../../Dropbox/TheSummerStartupSchool.com - 2015/iOS Course/Day 2/files/toyota.jpg"; sourceTree = "<group>"; };
+		51B15AAD1B27FF32003CD121 /* AddNewCarViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AddNewCarViewController.h; sourceTree = "<group>"; };
+		51B15AAE1B27FF32003CD121 /* AddNewCarViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddNewCarViewController.m; sourceTree = "<group>"; };
+		51B15AB01B280173003CD121 /* DisplayCarViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DisplayCarViewController.h; sourceTree = "<group>"; };
+		51B15AB11B280173003CD121 /* DisplayCarViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DisplayCarViewController.m; sourceTree = "<group>"; };
+		51B15AB31B280257003CD121 /* Car.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Car.h; sourceTree = "<group>"; };
+		51B15AB41B280257003CD121 /* Car.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Car.m; sourceTree = "<group>"; };
+		51B15AB61B283C2E003CD121 /* EditViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EditViewController.h; sourceTree = "<group>"; };
+		51B15AB71B283C2E003CD121 /* EditViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EditViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,7 +109,15 @@
 				51B15A801B27F678003CD121 /* AppDelegate.m */,
 				51B15A821B27F678003CD121 /* ViewController.h */,
 				51B15A831B27F678003CD121 /* ViewController.m */,
+				51B15AAD1B27FF32003CD121 /* AddNewCarViewController.h */,
+				51B15AAE1B27FF32003CD121 /* AddNewCarViewController.m */,
+				51B15AB01B280173003CD121 /* DisplayCarViewController.h */,
+				51B15AB11B280173003CD121 /* DisplayCarViewController.m */,
 				51B15A851B27F678003CD121 /* Main.storyboard */,
+				51B15AB61B283C2E003CD121 /* EditViewController.h */,
+				51B15AB71B283C2E003CD121 /* EditViewController.m */,
+				51B15AB31B280257003CD121 /* Car.h */,
+				51B15AB41B280257003CD121 /* Car.m */,
 				51B15A881B27F678003CD121 /* Images.xcassets */,
 				51B15A8A1B27F678003CD121 /* LaunchScreen.xib */,
 				51B15A7B1B27F678003CD121 /* Supporting Files */,
@@ -96,6 +128,12 @@
 		51B15A7B1B27F678003CD121 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				51B15AA11B27FB5A003CD121 /* audi.jpg */,
+				51B15AA21B27FB5A003CD121 /* bmw.jpg */,
+				51B15AA31B27FB5A003CD121 /* lexus.jpg */,
+				51B15AA51B27FB5A003CD121 /* no_photo_car.jpeg */,
+				51B15AA61B27FB5A003CD121 /* toyota.jpg */,
+				51B15AA41B27FB5A003CD121 /* mercedes.jpg */,
 				51B15A7C1B27F678003CD121 /* Info.plist */,
 				51B15A7D1B27F678003CD121 /* main.m */,
 			);
@@ -199,9 +237,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				51B15AAB1B27FB5A003CD121 /* no_photo_car.jpeg in Resources */,
 				51B15A871B27F678003CD121 /* Main.storyboard in Resources */,
 				51B15A8C1B27F678003CD121 /* LaunchScreen.xib in Resources */,
+				51B15AAC1B27FB5A003CD121 /* toyota.jpg in Resources */,
+				51B15AAA1B27FB5A003CD121 /* mercedes.jpg in Resources */,
+				51B15AA81B27FB5A003CD121 /* bmw.jpg in Resources */,
+				51B15AA71B27FB5A003CD121 /* audi.jpg in Resources */,
 				51B15A891B27F678003CD121 /* Images.xcassets in Resources */,
+				51B15AA91B27FB5A003CD121 /* lexus.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -219,6 +263,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				51B15AB51B280257003CD121 /* Car.m in Sources */,
+				51B15AB21B280173003CD121 /* DisplayCarViewController.m in Sources */,
+				51B15AAF1B27FF32003CD121 /* AddNewCarViewController.m in Sources */,
+				51B15AB81B283C2E003CD121 /* EditViewController.m in Sources */,
 				51B15A841B27F678003CD121 /* ViewController.m in Sources */,
 				51B15A811B27F678003CD121 /* AppDelegate.m in Sources */,
 				51B15A7E1B27F678003CD121 /* main.m in Sources */,
